@@ -4,7 +4,7 @@ Repositorio para los ejercicios de JavaScript realizados en la materia Desarroll
 Reposito de los Ejercicios de Javascript realizados en parejas en clase el dia 18 de febrero de 2025
 
 Ejercicio 1:
-En este ejercicio creamos una variable de nombre y que tenga un valor y se muestra en consola
+En este ejercicio creamos una variable de nombre y que tenga un valor y se muestra en consola                                     
 Ejercicio 2:
 Realizar operaciones basicas con 2 numeros (suma, resta, multiplicacion, division)
 Ejercicio 3:
